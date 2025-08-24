@@ -1,0 +1,56 @@
+# Node.js & Server (Backend)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.vscode/
+.idea/
+.DS_Store
+*.log
+*.pid
+*.seed
+
+# For TypeScript
+*.tsbuildinfo
+
+# Build Output Directories
+dist/
+build/
+
+# Docker
+.docker/
+
+# Next.js & Client (Frontend)
+.next/
+out/
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# VSCode Settings (Optional)
+.vscode/
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+
+# Tailwind CSS
+tailwind.config.ts
+postcss.config.js
